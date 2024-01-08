@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4n3VM0L/eGygXRB/kVxsbQ2OceAjQVIAt4pO1w59suNMrYoHqRMJ9ZMvOVTwJTJ013ODdRUMbSaNZdyoRAseA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RgMyF\\source\\repos\\HelloWindowsBILSube1\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RgMyF\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\RgMyF\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
